@@ -38,7 +38,7 @@ Deploy your app to a free static page hosting service, such as GitHub Pages. Sub
 ![Image 4-17-24 at 2 16 PM](https://github.com/Svarsha12/belly-button-challenge/assets/151500400/498fb03d-3495-4d4f-86d1-a6367e5c73c1)
 
 ## NOTE:
-app.js path : belly-button-challenge/Starter_Code_14/StarterCode/static/js/app.js
+You can visit my bellybutton dashboard- https://svarsha12.github.io/belly-button-challenge/
 
 I also created gauge chart. It was not in assignment, created it for my practice.
 ## HINTS and HELP
